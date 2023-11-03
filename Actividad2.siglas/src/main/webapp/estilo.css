@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+#contenedor {
+    width: 80%;
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+header {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+ul {
+	display: flex;
+	list-style-type: none;
+
+}
+.azul__recto{
+    margin-bottom: 12px;
+    margin-right: 20px;
+    color: blue;
+    
+}
+
+main {
+    background-color: gray;
+    border: 1px solid red;
+}
+
+.articulo {
+    font-family: Verdana, sans-serif;
+    color: red;
+}
+.texto__raton:hover{
+	color:black
+}
+
+.texto__enlace{
+	color:blue
+}
